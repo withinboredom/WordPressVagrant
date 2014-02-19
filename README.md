@@ -15,7 +15,7 @@ What is installed?
 * MySql
 * Apache
 * PHP 5.4
-
+* Mod Rewrite
 
 Recommended Vagrant Plugins
 ===========================
