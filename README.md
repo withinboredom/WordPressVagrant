@@ -36,4 +36,12 @@ Getting Started
 ===============
 
 Clone the repository and install Vagrant and the recommended vagrant plugins. Then just type:
+
 vagrant up
+
+Access wordpress at http://localhost:8080/src or if you used the vagrant-hostsupdater, http://test.com/src/
+
+Admin is located at /src/wp-admin with
+
+user name: robert
+password: password
