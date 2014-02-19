@@ -9,4 +9,19 @@ Recommended Vagrant Plugins
 ===========================
 
 vagrant plugin install vagrant-cachier
+
+  Caches installation packages on the host.
+
 vagrant plugin install vagrant-hostsupdater
+
+  updates your host file automatically
+  
+vagrant plugin install vagrant-vbguest
+
+  Updates virtualbox guest additions on boot, if they are out of date
+
+Getting Started
+===============
+
+Clone the repository and install Vagrant and the recommended vagrant plugins. Then just type:
+vagrant up
