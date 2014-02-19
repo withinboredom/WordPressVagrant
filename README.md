@@ -1,11 +1,21 @@
-wordpress_vagrant
-=================
+A Wordpress Development Box Ready to Eat
+========================================
 
 A Vagrant WordPress Setup for immediate use in PhpStorm.
 
 Also installs mailcatcher, a system to intercept mail and viewable in the webbrowser. If using the recommended plugins below, simply go to http://test.com:1080
 
 Wordpress can be accessed at http://test.com/src/
+
+What is installed?
+==================
+
+* mailcatcher
+* xdebug
+* MySql
+* Apache
+* PHP 5.4
+
 
 Recommended Vagrant Plugins
 ===========================
