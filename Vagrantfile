@@ -13,10 +13,13 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box = "precise64"
   config.vm.provision :shell, :path => "vagrant-provision.sh"
 
-  config.hostsupdater.remove_on_suspend = true
   config.vm.network :private_network, ip: "192.168.3.10"
   config.vm.hostname = "test.com"
   config.hostsupdater.aliases = ["www.test.com", "wp.test.com"]
+
+  if Vagrant.has_plugin?("vagrant-hostsupdater")
+    config.hostsupdater.remove_on_suspend = true
+  end
 
   if Vagrant.has_plugin?("vagrant-cachier")
       config.cache.auto_detect = true
