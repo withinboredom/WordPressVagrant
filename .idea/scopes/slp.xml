@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="slp" pattern="file:src/wp-content/plugins/store-locator-plus//*" />
+</component>

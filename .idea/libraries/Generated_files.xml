@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.min.js" />
+        <item url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.js" />
+        <item url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slp.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.min.min.js" />
+      <root url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.min.min.js" />
+      <root url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.min.js" />
+      <root url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.js" />
+      <root url="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slp.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
