@@ -2,7 +2,7 @@ src/wp-content/uploads/
 src/wp-content/blogs.dir/
 src/wp-content/upgrade/
 src/wp-content/backup-db/
-src/wp-content/plugins
+src/wp-content/plugins/
 src/wp-content/advanced-cache.php
 src/wp-content/wp-cache-config.php
 .vagrant
