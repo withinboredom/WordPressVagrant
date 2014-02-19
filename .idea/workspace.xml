@@ -32,66 +32,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slplus.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
+      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vagrantfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="315" column="20" selection-start="9925" selection-end="9925" vertical-scroll-proportion="0.0" vertical-offset="4531" max-vertical-offset="15900">
+            <state line="19" column="34" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2100">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slp-enhanced-results.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-enhanced-results/slp-enhanced-results.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="370" column="21" selection-start="12321" selection-end="12321" vertical-scroll-proportion="-8.083333" vertical-offset="5176" max-vertical-offset="8100">
-              <folding />
-            </state>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-widgets/readme.txt">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="60" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1500">
+            <state line="9" column="43" selection-start="203" selection-end="203" vertical-scroll-proportion="0.15625" vertical-offset="0" max-vertical-offset="864">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slp-widgets.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-widgets/slp-widgets.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="215" selection-end="215" vertical-scroll-proportion="0.15873016" vertical-offset="0" max-vertical-offset="4935">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class.ui.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/include/class.ui.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="629" column="24" selection-start="21530" selection-end="21530" vertical-scroll-proportion="0.0" vertical-offset="9301" max-vertical-offset="13335">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slp-enhanced-search.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-enhanced-search/slp-enhanced-search.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="667" column="54" selection-start="25337" selection-end="25344" vertical-scroll-proportion="7.5" vertical-offset="10005" max-vertical-offset="18585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slplus.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="19725">
-              <folding />
-            </state>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -108,7 +69,6 @@
         <option value="$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.min.js" />
         <option value="$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.js" />
         <option value="$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/include/class.actions.php" />
-        <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/src/wp-config.php" />
         <option value="$PROJECT_DIR$/src/.htaccess" />
         <option value="$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slp.js" />
@@ -116,6 +76,8 @@
         <option value="$PROJECT_DIR$/vagrant-provision.sh" />
         <option value="$PROJECT_DIR$/src/wp-content/plugins/slp-widgets/readme.txt" />
         <option value="$PROJECT_DIR$/src/wp-content/plugins/slp-widgets/slp-widgets.php" />
+        <option value="$PROJECT_DIR$/Vagrantfile" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -171,6 +133,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -361,7 +324,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,15 +384,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1033" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32606325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26411074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26943558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -438,6 +399,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32606325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -481,17 +443,15 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vagrant-provision.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="16" selection-start="3304" selection-end="3304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="316" column="19" selection-start="9946" selection-end="9956" vertical-scroll-proportion="0.0" vertical-offset="4555" max-vertical-offset="15900">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -540,7 +500,12 @@
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="277" column="67" selection-start="8352" selection-end="8352" vertical-scroll-proportion="0.0" vertical-offset="4155" max-vertical-offset="15900">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -575,7 +540,12 @@
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="277" column="67" selection-start="8352" selection-end="8352" vertical-scroll-proportion="0.0" vertical-offset="4155" max-vertical-offset="15900">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -610,7 +580,12 @@
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="277" column="67" selection-start="8352" selection-end="8352" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15900">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -645,7 +620,12 @@
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="277" column="67" selection-start="8352" selection-end="8352" vertical-scroll-proportion="0.0" vertical-offset="4155" max-vertical-offset="15900">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -666,7 +646,12 @@
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="761" column="28" selection-start="24234" selection-end="24234" vertical-scroll-proportion="0.0" vertical-offset="11415" max-vertical-offset="11790">
-          <folding />
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -740,14 +725,6 @@
         <state line="428" column="35" selection-start="15623" selection-end="15623" vertical-scroll-proportion="0.0" vertical-offset="6224" max-vertical-offset="7965" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="994" selection-end="994" vertical-scroll-proportion="-12.115385" vertical-offset="45" max-vertical-offset="2055" />
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="28" selection-start="867" selection-end="867" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1245" />
@@ -781,21 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-enhanced-search/slp-enhanced-search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="667" column="54" selection-start="25337" selection-end="25344" vertical-scroll-proportion="7.5" vertical-offset="10005" max-vertical-offset="18585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-enhanced-results/slp-enhanced-results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="370" column="21" selection-start="12321" selection-end="12321" vertical-scroll-proportion="-8.083333" vertical-offset="5176" max-vertical-offset="8100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="315" column="20" selection-start="9925" selection-end="9925" vertical-scroll-proportion="0.0" vertical-offset="4531" max-vertical-offset="15900">
+        <state line="667" column="54" selection-start="25337" selection-end="25344" vertical-scroll-proportion="0.0" vertical-offset="10005" max-vertical-offset="18765">
           <folding />
         </state>
       </provider>
@@ -809,9 +772,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-widgets/slp-widgets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="215" selection-end="215" vertical-scroll-proportion="0.15873016" vertical-offset="0" max-vertical-offset="4935">
+        <state line="6" column="16" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4935">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/slp-enhanced-results/slp-enhanced-results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="370" column="21" selection-start="12321" selection-end="12321" vertical-scroll-proportion="-0.2078522" vertical-offset="5550" max-vertical-offset="8100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wp-content/plugins/store-locator-plus/js/slplus.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="20" selection-start="9925" selection-end="9925" vertical-scroll-proportion="0.21797752" vertical-offset="4531" max-vertical-offset="15900">
+          <folding>
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392270030504" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="203" selection-end="203" vertical-scroll-proportion="0.15625" vertical-offset="0" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
