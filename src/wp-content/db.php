@@ -12,8 +12,8 @@ Author URI: http://withinboredom.info
 add_filter ( 'pre_option_home', 'test_localhosts' );
 add_filter ( 'pre_option_siteurl', 'test_localhosts' );
 function test_localhosts( ) {
-    if (strcasecmp($_SERVER['HTTP_HOST'], 'localhost') == 0) {
-        return "http://localhost";
+    if (strcasecmp($_SERVER['HTTP_HOST'], 'localhost:8080') == 0) {
+        return "http://localhost:8080";
     }
     else return false;
 }
