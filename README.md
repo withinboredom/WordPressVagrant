@@ -5,7 +5,7 @@ A Vagrant WordPress Setup for immediate use in PhpStorm.
 
 Also installs mailcatcher, a system to intercept mail and viewable in the webbrowser. If using the recommended plugins below, simply go to http://test.com:1080
 
-Wordpress can be accessed at http://test.com/src/
+Wordpress can be accessed at http://test.com/
 
 What is installed?
 ==================
@@ -20,17 +20,11 @@ What is installed?
 Recommended Vagrant Plugins
 ===========================
 
-vagrant plugin install vagrant-cachier
+`vagrant plugin install vagrant-cachier` - Caches installation packages on the host.
 
-  Caches installation packages on the host.
-
-vagrant plugin install vagrant-hostsupdater
-
-  updates your host file automatically
+`vagrant plugin install vagrant-hostsupdater` - updates your host file automatically
   
-vagrant plugin install vagrant-vbguest
-
-  Updates virtualbox guest additions on boot, if they are out of date
+`vagrant plugin install vagrant-vbguest` - Updates virtualbox guest additions on boot, if they are out of date
 
 Getting Started
 ===============
@@ -39,9 +33,10 @@ Clone the repository and install Vagrant and the recommended vagrant plugins. Th
 
 vagrant up
 
-Access wordpress at http://localhost:8080/src or if you used the vagrant-hostsupdater, http://test.com/src/
+Access wordpress at http://localhost:8080/ or if you used the vagrant-hostsupdater, http://test.com/
 
-Admin is located at /src/wp-admin with
+Admin is located at http://test.com/wp-admin with
 
 user name: robert
+
 password: password
