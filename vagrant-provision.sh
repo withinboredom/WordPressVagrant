@@ -98,7 +98,7 @@ fi
 
 echo "Linking web root to vagrant root"
 rm -rf /var/www
-ln -fs /vagrant /var/www
+ln -fs /vagrant/src /var/www
 
 # Make sure things are up and running as they should be
 mailcatcher --http-ip=192.168.3.10
